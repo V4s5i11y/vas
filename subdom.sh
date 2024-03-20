@@ -1,11 +1,10 @@
 #!/bin/bash
 
-
-#Install httprobe
+#Install dependencies:
+#the easiest way to install Golang - via pimpmykali script
 #go install github.com/tomnomnom/httprobe@latest
-
-
-
+#go get -u github.com/tomnomnom/assetfinder
+#go install -v github.com/owasp-amass/amass/v4/...@master
 
 url=$1
 
