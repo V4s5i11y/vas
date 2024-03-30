@@ -1,0 +1,16 @@
+#!/bin/bash
+
+# Original file and destination directory
+original_file="your_file_here" # Replace with your file
+destination_dir="php_copies" # Change directory name as needed
+
+# Create directory (if it doesn't exist) and copy the file with all PHP extensions
+mkdir -p "$destination_dir"
+for ext in php php3 php4 php5 php7 phps phtml phar; do
+    cp "$original_file" "${destination_dir}/${original_file}.$ext"
+done
+
+echo "Copies created in $destination_dir."
+
+#One liner
+#mkdir -p php_copies && for ext in php php3 php4 php5 php7 phps phtml phar; do cp your_file_here php_copies/your_file_here.$ext; done
