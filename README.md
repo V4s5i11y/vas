@@ -1,12 +1,11 @@
-- 👋 Hi, I’m @vas-berlin
-- 👀 I’m interested in cybersecurity
-- 🌱 I’m currently taking Cyber Analyst Course
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+Hi, this is a portfolio/work repository where I upload simple scripts that I made during my education. 
 
-<!---
-vas-berlin/vas-berlin is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+All of these tools are intended for authorized penetration testing purposes only.
+
+Nice to meet you, Vas.
+
+
+
+
+
+
