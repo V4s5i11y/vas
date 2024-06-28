@@ -14,6 +14,8 @@ Description:
 
 * ip_sweep - simple network discover tool
 
+* breachad_config.sh - script which will prepare VPN connection and DNS for working with tryhackme room "Breaching Active Directory"
+
 
 
 
