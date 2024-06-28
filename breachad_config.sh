@@ -44,6 +44,8 @@ main() {
     # Wait for the connection to establish (adjust sleep time as needed)
     sleep 10
 
+    echo -e "Health check: \n -----------------------------------------------------------"
+    
     # Check if THMDCIP is reachable
     if ping -c 1 "$THMDCIP" &>/dev/null; then
         echo "[+] $THMDCIP is reachable"
