@@ -1,4 +1,4 @@
-Hi, this is a portfolio/work repository where I upload simple scripts, that I made during my education. 
+Hi, welcome to my portfolio/work repository! Here, I upload various simple scripts I created during my education. Some of these scripts are by other authors that I like and keep here for later use.
 
 All of these tools are intended for authorized penetration testing purposes only.
 
